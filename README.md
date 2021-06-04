@@ -1,19 +1,13 @@
 # ewshop
 
-## Project setup
-```
-npm install
-```
+#### 基于Vue3和Vue-Cli仿写的图书交易网站
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+接口文档
 
-### Compiles and minifies for production
-```
-npm run build
-```
+[https://www.showdoc.com.cn/1207745568269674?page_id=6094279351627422]()
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+**使用组件**
+
+- Vant
+- BetterScrollp
+- Axios
